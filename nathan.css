@@ -6,6 +6,7 @@ width: 20px;
 .itema{
 width: 500px;
 hight: 500px;
+flex: 0 0 200px;
 }
 .navbar{
 display: flex;  
