@@ -3,8 +3,9 @@ display: flex;
 hight: 20px;
 width: 20px;
 }
-
-
+.itema{
+width: 500px;
+}
 .navbar{
 display: flex;  
 }
