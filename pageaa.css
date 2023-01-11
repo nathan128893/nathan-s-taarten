@@ -1,4 +1,10 @@
 .asgard{
- display:flex;
+ display: flex;
   width: 500px;
-  
+  hight: 200px;
+}
+.odin{
+ display: flex;
+width: 150px;
+ hight: 100px;
+ 
