@@ -2,6 +2,11 @@
  display: flex;
   width: 500px;
   hight: 200px;
+ flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
 }
 .odin{
  display: flex;
