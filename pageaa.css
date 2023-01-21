@@ -7,7 +7,9 @@
 	justify-content: flex-start;
 	align-items: stretch;
 	align-content: stretch;
+background:plaatjes/taarta.png;
 }
+
 .odin{
  display: flex;
 width: 150px;
