@@ -1,0 +1,16 @@
+.asgard{
+ display: flex;
+  width: 500px;
+  hight: 200px;
+ flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+background:plaatjes/taarta.png;
+}
+
+.odin{
+ display: flex;
+width: 150px;
+ hight: 100px;
