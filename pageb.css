@@ -1,4 +1,7 @@
-
+.navbar{
+display: flex;  
+align-items: left;
+}
 
 .ra{
  display: flex;
