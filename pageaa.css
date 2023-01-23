@@ -1,3 +1,8 @@
+.navbar{
+display: flex;  
+align-items: left;
+}
+
 .asgard{
  display: flex;
   width: 500px;
