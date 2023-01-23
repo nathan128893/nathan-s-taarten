@@ -7,8 +7,6 @@
 	justify-content: flex-start;
 	align-items: stretch;
 	align-content: stretch;
-@media (min-with: 768px)
-}
 @media (min-with: 768px) {
 	itema {
 		background-color: blue;
